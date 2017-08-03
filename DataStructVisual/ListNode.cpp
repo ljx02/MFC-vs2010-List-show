@@ -1,0 +1,26 @@
+// ListNode.cpp: implementation of the CListNode class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "datastructvisual.h"
+#include "ListNode.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CListNode::CListNode()
+{
+}
+
+CListNode::~CListNode()
+{
+
+}

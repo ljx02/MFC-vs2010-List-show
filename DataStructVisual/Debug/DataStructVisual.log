@@ -1,0 +1,51 @@
+﻿生成启动时间为 2017/7/15 9:56:08。
+     1>项目“G:\计算机1502 李佳轩 1507010230\DataStructVisual\DataStructVisual.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\DataStructVisual.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\DataStructVisual.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt LeftPane.cpp LinkList.cpp
+         LinkList.cpp
+         LeftPane.cpp
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\DataStructVisual.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\DataStructVisual.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\计算机1502 李佳轩 1507010230\DataStructVisual\Debug\DataStructVisual.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\DataStructVisual.lib" /MACHINE:X86 .\Debug\DataStructVisual.res
+         .\Debug\DataStructVisual.exe.embed.manifest.res
+         .\Debug\Control1.obj
+         .\Debug\Control2.obj
+         .\Debug\DataStructVisual.obj
+         .\Debug\DataStructVisualDoc.obj
+         .\Debug\DataStructVisualView.obj
+         .\Debug\Draw1.obj
+         .\Debug\Draw2.obj
+         .\Debug\LeftPane.obj
+         .\Debug\LinkList.obj
+         .\Debug\LinkListCrl.obj
+         .\Debug\LinkListDraw.obj
+         .\Debug\ListNode.obj
+         .\Debug\MainFrm.obj
+         .\Debug\RightSwitchFrame.obj
+         .\Debug\Splitter1.obj
+         .\Debug\Splitter2.obj
+         .\Debug\SplitterLinkList.obj
+         .\Debug\StdAfx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\DataStructVisual.exe.embed.manifest" /manifest .\Debug\DataStructVisual.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         DataStructVisual.vcxproj -> G:\计算机1502 李佳轩 1507010230\DataStructVisual\.\Debug\DataStructVisual.exe
+       BscMake:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Debug\DataStructVisual.bsc" .\Debug\Control1.sbr .\Debug\Control2.sbr .\Debug\DataStructVisual.sbr .\Debug\DataStructVisualDoc.sbr .\Debug\DataStructVisualView.sbr .\Debug\Draw1.sbr .\Debug\Draw2.sbr .\Debug\LeftPane.sbr .\Debug\LinkList.sbr .\Debug\LinkListCrl.sbr .\Debug\LinkListDraw.sbr .\Debug\ListNode.sbr .\Debug\MainFrm.sbr .\Debug\RightSwitchFrame.sbr .\Debug\Splitter1.sbr .\Debug\Splitter2.sbr .\Debug\SplitterLinkList.sbr .\Debug\StdAfx.sbr
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\DataStructVisual.unsuccessfulbuild”。
+         正在对“.\Debug\DataStructVisual.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\计算机1502 李佳轩 1507010230\DataStructVisual\DataStructVisual.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:18.74

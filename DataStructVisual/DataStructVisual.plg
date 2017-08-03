@@ -1,0 +1,119 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: DataStructVisual - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\DMT\AppData\Local\Temp\RSPFBFE.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/DataStructVisual.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\B_Tree.cpp"
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\CircleQueue.cpp"
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\DigGraph.cpp"
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\DigGraphDIJDraw.cpp"
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\Graph.cpp"
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\GraphArcNode.cpp"
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\GraphVertexNode.cpp"
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\SortArray.cpp"
+"C:\Users\DMT\Desktop\DataStructVisual_Complete\UDGraph.cpp"
+]
+Creating command line "cl.exe @C:\Users\DMT\AppData\Local\Temp\RSPFBFE.tmp" 
+Creating temporary file "C:\Users\DMT\AppData\Local\Temp\RSPFBFF.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/DataStructVisual.pdb" /debug /machine:I386 /out:"Debug/DataStructVisual.exe" /pdbtype:sept 
+.\Debug\AVLTree.obj
+.\Debug\AVLTreeCrl.obj
+.\Debug\AVLTreeDraw.obj
+.\Debug\AVLTreeNode.obj
+.\Debug\B_Tree.obj
+.\Debug\B_TreeCrl.obj
+.\Debug\B_TreeDraw.obj
+.\Debug\B_TreeNode.obj
+.\Debug\BiTree.obj
+.\Debug\BiTreeCrl.obj
+.\Debug\BiTreeDraw.obj
+.\Debug\BiTreeNode.obj
+.\Debug\CircleQueNode.obj
+.\Debug\CircleQueue.obj
+.\Debug\CircleQueueCrl.obj
+.\Debug\CircleQueueDraw.obj
+.\Debug\Control1.obj
+.\Debug\Control2.obj
+.\Debug\DataStructVisual.obj
+.\Debug\DataStructVisualDoc.obj
+.\Debug\DataStructVisualView.obj
+.\Debug\DeQueNode.obj
+.\Debug\DeQueue.obj
+.\Debug\DeQueueCrl.obj
+.\Debug\DeQueueDraw.obj
+.\Debug\DigGraph.obj
+.\Debug\DigGraphDIJCrl.obj
+.\Debug\DigGraphDIJDraw.obj
+.\Debug\Draw1.obj
+.\Debug\Draw2.obj
+.\Debug\Graph.obj
+.\Debug\GraphArcNode.obj
+.\Debug\GraphEdgeNode.obj
+.\Debug\GraphSetWeight.obj
+.\Debug\GraphVertexNode.obj
+.\Debug\LeftPane.obj
+.\Debug\LinkList.obj
+.\Debug\LinkListCrl.obj
+.\Debug\LinkListDraw.obj
+.\Debug\ListNode.obj
+.\Debug\MainFrm.obj
+.\Debug\RightSwitchFrame.obj
+.\Debug\SortArray.obj
+.\Debug\SortCrl.obj
+.\Debug\SortDraw.obj
+.\Debug\SortNode.obj
+.\Debug\Splitter1.obj
+.\Debug\Splitter2.obj
+.\Debug\SplitterAVLTree.obj
+.\Debug\SplitterB_Tree.obj
+.\Debug\SplitterBiTree.obj
+.\Debug\SplitterCircleQueue.obj
+.\Debug\SplitterDeQueue.obj
+.\Debug\SplitterDigGraphDIJ.obj
+.\Debug\SplitterLinkList.obj
+.\Debug\SplitterSort.obj
+.\Debug\SplitterUDGraphDFS.obj
+.\Debug\StdAfx.obj
+.\Debug\UDGraph.obj
+.\Debug\UDGraphDFSCrl.obj
+.\Debug\UDGraphDFSDraw.obj
+.\Debug\DataStructVisual.res
+]
+Creating command line "link.exe @C:\Users\DMT\AppData\Local\Temp\RSPFBFF.tmp"
+<h3>Output Window</h3>
+Compiling...
+B_Tree.cpp
+c:\users\dmt\desktop\datastructvisual_complete\b_tree.cpp(5) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+CircleQueue.cpp
+c:\users\dmt\desktop\datastructvisual_complete\circlequeue.cpp(5) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+DigGraph.cpp
+c:\users\dmt\desktop\datastructvisual_complete\diggraph.cpp(5) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+DigGraphDIJDraw.cpp
+c:\users\dmt\desktop\datastructvisual_complete\diggraphdijdraw.cpp(4) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+Graph.cpp
+c:\users\dmt\desktop\datastructvisual_complete\graph.cpp(5) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+GraphArcNode.cpp
+c:\users\dmt\desktop\datastructvisual_complete\grapharcnode.cpp(5) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+GraphVertexNode.cpp
+c:\users\dmt\desktop\datastructvisual_complete\graphvertexnode.cpp(5) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+SortArray.cpp
+c:\users\dmt\desktop\datastructvisual_complete\sortarray.cpp(4) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+UDGraph.cpp
+c:\users\dmt\desktop\datastructvisual_complete\udgraph.cpp(5) : fatal error C1853: 'Debug/DataStructVisual.pch' is not a precompiled header file created with this compiler
+Generating Code...
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+DataStructVisual.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
